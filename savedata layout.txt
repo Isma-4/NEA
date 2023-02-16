@@ -1,0 +1,15 @@
+savedata layout (horizontally):
+
+0 roomx
+1 roomy
+2 phase
+3 playerx
+4 playery
+5 toggledoor_status
+6 keydoor_status
+7 button_status
+8 item_collected
+9 health
+10 damage
+11 coins
+

@@ -1,0 +1,109 @@
+----DONE----
+-Player
+-Static tiles
+-Animated tiles
+-Button
+-Door
+-Menu / Game separation
+-Text box system (Dialogue)
+-Tile loading system (csv reading)
+-Loading/Unloading system (performance optimisation)
+-Merged tile and atile class into one
+-Fixed wall clipping glitch when walking diagonally offscreen
+-Enemy class
+-Slime enemy
+-Life system
+-Finding screwdriver mission
+
+----TO DO ----
+-Lab area
+-Spell
+-Mana system?
+
+----------------------------------------------------------
+	    self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.01, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.02, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.03, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.04, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.05, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.06, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.07, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.08, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.09, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.10, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.11, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.12, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.13, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.14, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.15, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.16, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.17, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.18, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.19, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.20, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.21, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.22, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.23, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.24, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.25, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.26, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.27, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.28, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.29, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.30, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.31, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.32, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.33, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.34, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.35, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.36, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.37, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.38, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.39, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.40, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.41, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.42, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.43, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.44, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.45, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.46, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.47, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.48, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.49, 0.05)
+            self.slime = Enemy(self, "slime", roomx, roomy, TILESIZE*8, TILESIZE*4, 1, 0.50, 0.05)
+---------------------------------------------------------------------------
+"""
+    def animate(self, direction):
+        if direction == "up":
+            self.current_image += 0.1
+            if self.current_image >= len(self.game.p_u_animate):
+                self.current_image = 0
+            self.image = self.game.p_u_animate[int(self.current_image)]
+            #Defines transparent bg colour for player image
+            self.image.set_colorkey(WHITE) 
+        if direction == "down":
+            self.current_image += 0.1
+            if self.current_image >= len(self.game.p_d_animate):
+                self.current_image = 0
+            self.image = self.game.p_d_animate[int(self.current_image)]
+            #Defines transparent bg colour for player image
+            self.image.set_colorkey(WHITE) 
+        if direction == "left":
+            self.current_image += 0.1
+            if self.current_image >= len(self.game.p_l_animate):
+                self.current_image = 0
+            self.image = self.game.p_l_animate[int(self.current_image)]
+            #Defines transparent bg colour for player image
+            self.image.set_colorkey(WHITE) 
+        if direction == "right":
+            self.current_image += 0.1
+            if self.current_image >= len(self.game.p_r_animate):
+                self.current_image = 0
+            self.image = self.game.p_r_animate[int(self.current_image)]
+            #Defines transparent bg colour for player image
+            self.image.set_colorkey(WHITE)
+            """
+
+
+
+
